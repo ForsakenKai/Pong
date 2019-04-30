@@ -1,0 +1,10 @@
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\bin\Debug\Pong Revolution.exe.config
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\bin\Debug\Pong Revolution.exe
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\bin\Debug\Pong Revolution.pdb
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\obj\Debug\Pong Revolution.csprojAssemblyReference.cache
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\obj\Debug\Pong_Revolution.Properties.Resources.resources
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\obj\Debug\Pong Revolution.csproj.GenerateResource.cache
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\obj\Debug\Pong Revolution.csproj.CoreCompileInputs.cache
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\obj\Debug\Pong Revolution.exe
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\obj\Debug\Pong Revolution.pdb
+C:\Users\Rakuen\source\repos\Pong Revolution\Pong Revolution\obj\Debug\Pong_Revolution.Form1.resources
